@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venu/
+
+# Database (personal data, don't commit)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyQt / Qt cache
+*.qmlc
+*.jsc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Distribution / build
+dist/
+build/
+*.egg-i
